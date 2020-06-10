@@ -20,7 +20,7 @@ yarn add photoswipe-react
 Style file combining photoswipe's Core CSS file and Skin CSS file
 
 ```javascript
-import 'photoswipe-react/photoswipe.css'
+import 'photoswipe-react/dist/photoswipe.css'
 ```
 
 ### Quickstart
